@@ -1,0 +1,33 @@
+ Spielablauf (und Sinn ?):
+
+ Drake Snake ist ein Abenteurer, der sich auf die Suche nach einem Schatz
+ macht (welch brandneue Spielidee ;-) ). Drake begibt sich also nach Afrika,
+ findet ein Loch im Boden und ... hopalla, ist er in einem unterirdischen
+ Labyrinth - hier setzt das Spiel an.
+ Sie mssen Drake, der mit einem Dsenrucksack, einem Gewehr und einigen
+ Bomben ausgestattet ist, durch dieses Labyrinth zum Ziel steuern. Dies ist
+ jedoch nicht so einfach, da Energie, Munition, Bomben und Spritt nicht
+ unbegrenzt zur Verfgung stehen. Weitere Schwierigkeiten gibt es in Form
+ von Scorpionen (t”dlich), Spinnen (auch t”dlich), Fleischfressenden Pflanzen
+ (zu Erkennen am Maul - natrlich t”dlich), Flederm„usen (schw„chen nur)
+ und Wasserlachen (schw„chen auch).
+ .. Ach ja, unbegrenzt Zeit haben Sie natrlich auch nicht - Drake's Energie 
+ schwindet langsam, aber kontinuierlich.
+ Sollte es mal nicht mehr weitergehen, so schauen Sie sich genau um,
+ wahrscheinlich gibt es eine Mauer, die mit Hilfe einer Bombe gesprengt werden
+ kann. Im gesamten gilt es, 13 Level zu durchqueren (2 in der Shareware-
+ version), um zum Ziel zu gelangen. Ein Level ist dabei in mehrere 'Screens'
+ unterteilt; wechseln Sie von einem Screen zu einem anderen, bemerken Sie dies
+ am Aus- und Einblenden.
+ Wundern Sie sich nicht, wenn Sie nicht in den gewnschten Screen kommen.
+ z.B. im ersten Level - gehen Sie mal nach rechts raus und danach wieder nach
+                        links zurck - šberrascht ?
+ Haben Sie einen Level geschafft, bekommen Sie einen sog. Levelcode
+ mitgeteilt (nur Vollversion), den Sie sp„ter im Men unter Punkt 2 eingeben
+ k”nnen; dann kommen Sie in den ensprechenden Level wieder rein und mssen
+ nicht alles von vorn durchspielen (In der Sharewareversion "LEVEL1" fr den
+ ersten Level und "LEVEL2" fr den zweiten Level).
+ Falls Sie brigens nicht immer den ganzen Vorspann sehen m”chten, k”nnen
+ Sie w„hrend der ersten Bilder >ESC< drcken, um sofort ins Men zu kommen.
+ Das w„re soweit alles. Wenn Sie weitere Fragen haben, wenden Sie sich
+ an uns.

@@ -1,0 +1,11 @@
+ Hard-/Softwarevoraussetzungen:
+
+ - IBM - Kompatibler PC (SEHR empfohlen ab 286 - 12MHz)
+ - 640 kB RAM (eben normaler RAMausbau)
+ - VGA Karte (z.B. mit Tseng Chipsatz - funktioniert garantiert)
+ - bei der Demoversion ca. 1,5 MB freier Festplattenspeicher
+   (bei der Vollversion ca. 2,5 MB)
+ - MS DOS ab Version 3.1 (unter „lteren Versionen nicht getestet)
+ - (bei der Vollversion Sound Blaster empfohlen)
+
+ empfohlen wird zum vollen Genuá ein Farbmonitor.

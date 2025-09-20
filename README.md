@@ -3,7 +3,7 @@
 **Drake Snake** is a DOS jump-and-run adventure game, written in **Turbo Pascal** in the early 1990s.  
 The player controls *Drake*, an adventurer with a **jetpack**, **gun**, and **bombs**, exploring underground tunnels in search of treasure.  
 
-Unlike the classic snake game, this is a **side-scrolling action platformer** with enemies, limited resources, and destructible walls.  
+Unlike the classic snake game, this is a **up-and-down-scrolling action platformer** with enemies, limited resources, and destructible walls.  
 
 ---
 

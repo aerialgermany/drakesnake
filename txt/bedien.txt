@@ -1,0 +1,67 @@
+ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+                      B E D I N U N G S A N L E I T U N G
+
+                                 zum Spiel
+
+                           D R A K E   S N A K E
+ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+ Spielsteuerung :
+ ----------------
+
+  > per Joystick : 
+
+    Nach Oben    - Spielfigur fliegt nach oben.
+    Nach Unten   - Trinkfl„schchen mit Energie wird aufgenommen,
+                   natrlich nur wenn eines da ist ;-)
+    Nach Links   - Spielfigur fliegt/geht nach links.
+    Nach Rechts  - Spielfigur fliegt/geht nach rechts.
+                   PS. wer h„tte das fr m”glich gehalten ;-)
+    1.Feuerknopf - Spielfigur schieát in die entsprechende Richtung.
+    2.Feuerknopf - Spielfigur setzt eine Bombe ab.
+                   PS. nur wenn sie mit beiden Beinen auf dem Boden steht.
+
+  > per Maus : 
+
+    Nach Oben    - Spielfigur fliegt nach oben.
+    Nach Unten   - Trinkfl„schchen mit Energie wird aufgenommen,
+                   natrlich nur wenn eines da ist ;-)
+    Nach Links   - Spielfigur fliegt/geht nach links.
+    Nach Rechts  - Spielfigur fliegt/geht nach rechts.
+                   PS. kommt Ihnen das vielleicht bekannt vor ;-)
+    Linker
+    Mausknopf    - Spielfigur schieát in die entsprechende Richtung.
+    Rechter
+    Mausknopf    - Spielfigur setzt eine Bombe ab.
+                   PS. Tja, es geht auch hier noch nicht im Fliegen.
+
+  > per Tastatur : 
+
+    Cursor Hoch   - Spielfigur fliegt nach oben.
+    Cursor Runter - Trinkfl„schchen mit Energie wird aufgenommen,
+                    natrlich nur wenn eines da ist ;-)
+    Cursor Links  - Spielfigur fliegt/geht nach links.
+    Cursor Rechts - Spielfigur fliegt/geht nach rechts.
+                    PS. ..blablablabla, das kennen Sie doch alles schon ;-)
+    >SPACEBAR<    - Spielfigur schieát in die entsprechende Richtung.
+    >B<           - Spielfigur setzt eine Bombe ab.
+                    PS. Wenn Sie auch die n„chste Zeile
+                        noch lesen haben Sie es geschafft.
+    CTRL+ALT+DEL  - SIMULIERT KURZ einen Warmstart ;-)
+
+
+   Programmaufruf:
+   ---------------
+
+   Um an die M”glichkeit der Steuerung per Maus bzw. Joystick berhaupt heran-
+   zukommen ist es n”tig dies dem Programm mitzuteilen. Das geschieht indem
+   beim Aufruf von DRAKE.EXE die Parameter /Maus bzw. /Joystick hinzuzufgen.
+   Alle M”glichen Parameter kann man sich auch ber /? ausgeben lassen.
+
+   (derzeit) m”gliche Parameter in der šbersicht:
+
+   /?        - Hilfeanzeige
+   /Joystick - Joysticksteuerung
+   /Tastatur - Tastatur  "       (Voreinstellung)
+   /Maus     - Maus      "
+   /BIOS     - Palettensetzen per BIOS-Aufruf

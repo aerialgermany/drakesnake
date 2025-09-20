@@ -1,0 +1,19 @@
+ Vorwort:
+ Ich erinnere mich teilweise ganz gern an alte 64er (bzw. 128er) - Zeiten
+ zurck, besonders, was die Spiele betrifft. Meine besonderen Favoriten
+ waren einige Geschicklichkeitsspiele wie z.B. Mr.Angry, Mr. Do's Castle,
+ Mission Elevator und auch HERO.
+ Gerade solche Spiele waren (und sind auch heute noch) auf dem PC relativ
+ rar und haben meist nicht so einen groáen Spass gemacht. Die aktuellen
+ PC - Spiele sind meist umwerfend in bezug auf Grafik, Sound, GR™áE und
+ KOMPLEXITT und bedrfen tagelanger Einarbeitungszeit. Oft aber will
+ man nur mal so zum Entspannen etwas spielen und genau das soll (wie einige
+ andere Sharewarespiele auch) Drake Snake bringen.
+ Natrlich kann man heutzutage mit EGA-/Hercules-Grafik und PC-Piepser-Sound
+ die wenigsten hinter dem Ofen hervorlocken, daher ist schon eine Mindest-
+ hardware Voraussetzung fr das Spiel.
+
+ Ich hoffe, daá die Hardwarevoraussetzungen und der Preis niemanden
+ abschrecken und wnsche viel Spass beim Spielen.
+
+                                             M. Keydel (Programmierer)
