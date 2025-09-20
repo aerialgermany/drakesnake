@@ -104,7 +104,7 @@ See [LICENSE](LICENSE) for details.
 
 ## 🙏 Credits
 
-- Original development: *[Your Name / Handle]*  
+- Original development: *Martin Keydel, Markus Schröder, Ralph Wiedemann, Daniel Rinck*  
 - Language: **Turbo Pascal (DOS)**  
 - Release: early 1990s  
 - Open-sourced for preservation and retro-computing enthusiasts
