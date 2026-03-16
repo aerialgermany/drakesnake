@@ -13,7 +13,7 @@ python leveleditor/editor.py
 Optional sprite file argument:
 
 ```powershell
-python leveleditor/editor.py --sprite-file "distribution/drake.spr"
+python leveleditor/editor.py --sprite-file "drake.spr"
 ```
 
 ## Features
