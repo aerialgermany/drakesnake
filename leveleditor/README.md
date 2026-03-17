@@ -16,6 +16,10 @@ Optional sprite file argument:
 python leveleditor/editor.py --sprite-file "drake.spr"
 ```
 
+## Screenshot
+
+![Level editor screenshot](screenshot.png)
+
 ## Features
 
 - Load and save packed `*.lvl` files
